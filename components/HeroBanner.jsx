@@ -15,7 +15,7 @@ const HeroBanner = () => {
             <div className='header-content'>
                 <span>Sale 70%</span>
                 <h1>An Industrial Take on Streetwear</h1>
-                <p>Anyone can beat you but no one can beat your outfit as long as you wear Dine outfits.</p>
+                <p>Anyone can beat you but no one can beat your outfit as long as you wear Wear It outfits.</p>
                 <Link href='/products'>
                      <button className='btn' type='button'><CgShoppingCart size={26} />  Start Shopping</button>
                 </Link>

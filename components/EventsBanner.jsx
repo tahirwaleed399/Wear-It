@@ -25,7 +25,7 @@ const EventsBanner = () => {
           <div className='event-card'>
             <h3>GET 30% Off</h3>
             <p>USE PROMO CODE</p>
-            <button>DINEWEEKENDSALE</button>
+            <button>Wear ItWEEKENDSALE</button>
           </div>
         </div>
 
