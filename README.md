@@ -28,7 +28,7 @@ This project is a full stack e-commerce website built with Next js. I created th
 - Connecting Stripe APIs to power online payment processing for e-commerce
 
 ### Screenshot
-![Design overview for Dine Market e-commerce](./src/assets/header-section.png)
+![Design overview for Wear It Market e-commerce](./src/assets/header-section.png)
 For now the search bar is only for styling purposes and doesn't work properly yet
 
 ### Links
@@ -91,7 +91,7 @@ The development of this project can be continued by adding a search filter funct
 A HUGE Thanks to Javascript Mastery youtube channel which really helps me in learning about web development. I recommend this channel to everyone who wants to learn about web development and javascript
 
 ## Author
-Github - [Shabrina Putri](https://github.com/shabrina12)
+Github - [Waleed Tahir](https://github.com/tahirwaleed399)
 
 ## 🤸 Getting Started
 
